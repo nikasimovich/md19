@@ -14,6 +14,7 @@ date_range:       8/27
 - Review [Activity: Desktop to Mobile Comparison](../projects/desktop2mobile)
 
 ### Homework
+- Complete [Activity: Desktop to Mobile Comparison](../projects/desktop2mobile)
 - Purchase [Sketch](https://www.sketchapp.com/store/edu/)
 - Sign up for [InVision](https://www.invisionapp.com/) (free account)
 - Bring your phone cable to class next week – the one that connects your phone to your computer
