@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 173 207" style="enable-background:new 0 0 173 207;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Stroke-3_1_);stroke:#000000;}
+	.st1{fill:url(#Stroke-1_1_);stroke:#000000;}
+	.st2{fill:url(#Stroke-5_1_);stroke:#000000;}
+</style>
+<g id="Readings" transform="translate(-340.000000, -81.000000)">
+	<g id="Page-1" transform="translate(345.000000, 84.000000)">
+		<linearGradient id="Stroke-3_1_" gradientUnits="userSpaceOnUse" x1="81.5" y1="26.3084" x2="81.5" y2="188.9084">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.4796" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+			<stop  offset="0.9991" style="stop-color:#F762F9"/>
+		</linearGradient>
+		<polyline id="Stroke-3" class="st0" points="162.8,52.1 162.8,196.8 0.2,196.8 0.2,0.2 111,0.2 		"/>
+		<linearGradient id="Stroke-1_1_" gradientUnits="userSpaceOnUse" x1="111" y1="26.15" x2="162.8" y2="26.15">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.4796" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+			<stop  offset="0.9991" style="stop-color:#F762F9"/>
+		</linearGradient>
+		<polyline id="Stroke-1" class="st1" points="111,0.2 111,52.1 162.8,52.1 		"/>
+		<linearGradient id="Stroke-5_1_" gradientUnits="userSpaceOnUse" x1="111" y1="26.15" x2="162.8" y2="26.15">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.4796" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+			<stop  offset="0.9991" style="stop-color:#F762F9"/>
+		</linearGradient>
+		<path id="Stroke-5" class="st2" d="M162.8,52.1L111,0.2"/>
+	</g>
+</g>
+</svg>

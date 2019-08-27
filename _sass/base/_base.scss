@@ -1,0 +1,56 @@
+html,
+body {
+  min-height: 100%;
+}
+
+html {
+  @include font-regular;
+  font-style: normal;
+  box-sizing: border-box;
+  border: 20px solid #ffedfe;
+
+  @include breakpoint(sm) {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -moz-font-feature-settings: "liga" on;
+  }
+}
+
+.html--home {
+  background-color: white;
+}
+
+.html--not-home {
+  background-color: $white;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+div {
+  vertical-align: top;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+video#bgvid {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover;
+}
