@@ -15,7 +15,7 @@ date_range:       8/27
 
 ### Homework
 - Complete [Activity: Desktop to Mobile Comparison](../projects/desktop2mobile)
-- Purchase [Sketch](https://www.sketchapp.com/store/edu/)
+- Purchase [Sketch](https://www.sketchapp.com/store/edu/) (or [Figma](https://www.figma.com/) if you&rsquo;re on Windows)
 - Sign up for [InVision](https://www.invisionapp.com/) (free account)
 - Bring your phone cable to class next week – the one that connects your phone to your computer
 - Read [The Webs Grain by Frank Chimero](https://frankchimero.com/writing/the-webs-grain/) and write a discussion question
