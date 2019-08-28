@@ -15,7 +15,7 @@ To start our study on mobile design, let’s investigate what changes between sc
 2. Here are some things to observe: layout changes, type changes, hierarchy changes, use of location, hidden fields.
 3. Document your findings in a google slides presentation, dropbox paper, or PDF with screenshots and links to the websites. Have a couple bullet points for each entry.
 4. Title your slide document as “Firstname-Lastname_Comparison”
-5. Save your presentation to the homework drop with today’s date.
+5. Save your presentation to the homework drop in the week 2 folder.
 
 
 ---
