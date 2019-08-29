@@ -45,13 +45,16 @@
 }
 
 .mobile-header,
-.mobile-footer {
+.mobile-footer,
+.mobile-header a {
   text-align: center;
+  color: white;
 }
 
 .mobile-header {
   margin-top: $line-height * 2;
   margin-bottom: $line-height;
+  color: white;
 
   .header {
     position: static;
@@ -68,7 +71,7 @@
 }
 
 .mobile-footer {
-  background: $hover-accent-color;
+  background: none;
 
   .footer {
     position: static;
