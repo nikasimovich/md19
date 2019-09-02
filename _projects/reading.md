@@ -7,7 +7,10 @@ index:            2
 
 ### Overview
 
-Many people use their phones as a device for reading. While we reflect on our own thoughts on the internet, let’s practice creating a comfortable and thoughtfully designed experience at a variety of screen sizes.
+Many people use their phones as a device for reading.
+While we reflect on our own thoughts on the internet,
+let’s practice creating a comfortable and thoughtfully
+designed experience at a variety of screen sizes.
 
 ### Instructions
 
@@ -20,6 +23,26 @@ Many people use their phones as a device for reading. While we reflect on our ow
 
 ---
 
+### Writing References
+
+Consider different ways of writing your response. Anything is fair game, but here are a few different approaches if you don&rsquo;t know where to begin:
+
+Stream of Consciousness
+- [excerpt from “Literally Show Me a Healthy Person” – Darcie Wilder](http://magazine.nytyrant.com/literally-show-healthy-person-excerpt/)
+
+Combining Images and Text
+- [Guest Book – Leanne Shapton](https://www.npr.org/2019/03/30/708035656/the-stories-in-guestbook-linger-like-ghosts)
+
+Responding to Something Specific
+- [A New Instagram Obsession: Russian Women With Many Flowers – Molly Young](https://www.thecut.com/2014/07/meet-the-russian-flower-queens-of-instagram.html)
+
+Collections of other people&rsquo;s memories:
+- [Web Safe 2016](http://websafe2k16.com/)
+- [When All Of My Friends Are On At Once](http://allmyfriendsatonce.com)
+
+
+---
+
 ### Due
 
-September 11
+September 10, with in class workshop to refine
