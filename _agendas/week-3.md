@@ -14,8 +14,8 @@ date_range:       09/10
 - 1 on 1 feedback
 
 ### Homework
-- Read through our next activity [Transaction](http://md.labud.nyc/projects/transaction) and complete steps 1 and 2.
-- Create a short presentation (slides, paper, or PDF) that introduces your idea, showcases your research, and includes a list of all the steps necessary to complete your transaction
+- Finish and revise your Reading at Different Sizes exercise based on feedback from in class or on your invision
+- Read through our next activity [Transaction](http://md.labud.nyc/projects/transaction) and complete steps 1 and 2. Create a short presentation (slides, paper, or PDF) that introduces your idea, showcases your research, and includes a list of all the steps necessary to complete your transaction
 - Read [Drowning the Crystal Goblet](https://practicaltypography.com/drowning-the-crystal-goblet.html) (as well as [The Crystal Goblet](http://ci.labud.nyc/assets/readings/warde-beatrice_the-crystal-goblet.pdf) if you&rsquo;ve never read it). Come prepared with a discussion question.
 
 ---
