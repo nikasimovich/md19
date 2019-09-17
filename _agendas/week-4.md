@@ -14,7 +14,7 @@ date_range:       09/16
 - Work on transaction activity
 
 ### Homework
-- Finish your Transaction activity and save the sketch cloud or InVision link in a google doc in the week 4 folder of the homework drive. Make sure to test it out on yur device.
+- Finish your Transaction activity and save the sketch cloud or InVision link in a google doc in the week 5 folder of the homework drive. Make sure to test it out on your device.
 - Read [History of Computer Net Art by Thomas Dreher](http://iasl.uni-muenchen.de/links/GCA-VI.3e.html#HTML) and come to class with a discussion question
 
 
