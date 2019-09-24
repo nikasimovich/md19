@@ -7,7 +7,7 @@ index:            4
 
 ### Overview
 
-Surrounded by screens, the digital revolution has transformed our day to day lives in numerous ways. Some of these changes are helpful – making work more efficient, connecting different parts of the world together, and the ability to learn from each other easily are a few of them. On the other hand, some of the changes have been corrupted by greedy corporations trying to create addictive habits and expose us to as many advertisements as possible. These changes are not unnoticed, where even phone manufacturers such as Apple are providing information on our phone usage and provide options to curb your usage. For this next project, I’d like you to reflect on your own phone use and highlight something about your findings. It does not have to take a cynical approach, but it should feel like an honest response to whatever you observe.
+Surrounded by screens, the digital revolution has transformed our day to day lives in numerous ways. Some of these changes are helpful – making work more efficient, connecting different parts of the world together, and the ability to learn from each other easily are a few of them. Some of the changes have impacted the way we view ourselves, what the content we interact with looks like, and have created habits that may be harmful in the long run. These changes are not unnoticed, where even phone manufacturers such as Apple are providing information on our phone usage and provide options to curb your usage. For this next project, I’d like you to reflect on your own phone use and highlight something about your findings. It does not have to take a cynical approach, but it should feel like an honest reaction to whatever you observe.
 
 ### Instructions
 
