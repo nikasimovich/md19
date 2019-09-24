@@ -8,7 +8,7 @@ date_range:       09/24
 
 - Discuss History of Computer Net Art reading and discuss image making and how it relates to web design
 - [In class activity – testing the transaction](https://paper.dropbox.com/doc/Week-5--AlU7ZyTUdLSWzgEsRYHeidsCAQ-LyEvDowrAOhGZjSa7DUXn)
-- Introduce Midterm: Screen Time and go over homework
+- Introduce Midterm: [Screen Time](../projects/midterm) and go over homework
 - Watch [Black Mirror episode "Nosedive"](https://www.netflix.com/watch/80104627?trackId=14277281&tctx=0%2C0%2Ce53286a3-7c6f-4026-86ce-d232c9d02ba9-2771826%2C%2C)
 
 ### Homework
