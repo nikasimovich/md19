@@ -20,7 +20,8 @@ Surrounded by screens, the digital revolution has transformed our day to day liv
 
 1. 1920 x 1080 pixels
 2. mp4 format
-3. > 5mb
+3. less than 5mb
+4. each video should be less than a minute
 
 ---
 
