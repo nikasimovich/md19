@@ -4,7 +4,7 @@ start_date:       2019-09-02 00:00:00 -0500
 date_range:       9/3
 ---
 
-### Tuesday, Studio
+### Tuesday
 
 - Discuss [The Webs Grain by Frank Chimero](https://frankchimero.com/writing/the-webs-grain/)
 - Review [Activity: Desktop to Mobile Comparison](https://paper.dropbox.com/doc/MD-Week-2-Group-Activity--AkCIlGQr~usTGdo~MiV~UZ9pAQ-yzMvqfjnlJNwJPhWyz665)

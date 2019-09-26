@@ -4,7 +4,7 @@ start_date:       2019-09-02 00:00:00 -0500
 date_range:       09/10
 ---
 
-### Tuesday, Studio
+### Tuesday
 
 - Take 15 minutes and read this [conversation](http://art.yale.edu/file_columns/0001/0417/balkin.pdf)
 - Upload all 3 of your screens into an invision prototype (optional, use the [craft plugin](https://www.invisionapp.com/craft))

@@ -4,7 +4,7 @@ start_date:       2019-08-27 00:00:00 -0500
 date_range:       8/27
 ---
 
-### Tuesday, Studio
+### Tuesday
 
 - Introductions
 - Discussion topics: What is web design to you? What are you hoping to learn here? What is the point of this class?

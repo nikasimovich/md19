@@ -4,7 +4,7 @@ start_date:       2019-09-16 00:00:00 -0500
 date_range:       09/16
 ---
 
-### Tuesday, Studio
+### Tuesday
 
 - Discuss Crystal Goblet readings
 - Present Reading at Different Sizes Activity (save your link in this week&rsquo;s [google drive](https://drive.google.com/open?id=1_SSTjg-LwdWhgO07BF9S0_iOc_LSHicl))
