@@ -11,7 +11,7 @@ date_range:       10/01
 - Student "on deck" responds first!
 
 ### Homework
-- Based on today&rsquo;s critique, pick one idea to move forward with. Create storyboards for your concept. The storyboards should be static (no animation) and should sketch out what will occur in each video. Consider the storyboards the first frmae of each video, with some notes about how it will change. Start thinking about if you&rsquo;ll use filmed footage, motion graphics or a combination of both. Consider how the visuals inform your concept, and how the three videos will feel like a system.
+- Based on today&rsquo;s critique, pick one idea to move forward with. Create storyboards for your concept. The storyboards should be static (no animation) and should sketch out what will occur in each video. Consider the storyboards the first frame of each video, with some notes about how it will change. Start thinking about if you&rsquo;ll use filmed footage, motion graphics or a combination of both. Consider how the visuals inform your concept, and how the three videos will feel like a system.
 - Read [‘Nerd,’ ‘Nonsmoker,’ ‘Wrongdoer’: How Might A.I. Label You?](https://www.nytimes.com/2019/09/20/arts/design/imagenet-trevor-paglen-ai-facial-recognition.html) and write a [discussion question](https://paper.dropbox.com/doc/Nerd-Nonsmoker-Wrongdoer-How-Might-A.I.-Label-You-Discussion-Question--AlyA18ol~fbdTWBo7WTlE73EAQ-ggp4GlMtXquL5hX5zFIjN) on this document
 
 
