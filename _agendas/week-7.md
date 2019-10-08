@@ -14,5 +14,6 @@ date_range:       10/07
 ### Homework
 - Read [Screenshot or it Didn't Happen – Jacob Gaboury](https://www.fotomuseum.ch/en/explore/still-searching/articles/156303_screenshot_or_it_didnt_happen) and write a discussion question [here](https://paper.dropbox.com/doc/Mobile-Design-Discussion-Question--AmMIzIeRje8R6b9C6wRg28RRAQ-ugtPKeKjrtvOsF6TWeGmr)
 - Come to class with a working draft of your 3 videos (have 3 videos exported in the format we looked at in class)
+- Download [Sublime Text](https://www.sublimetext.com/)
 
 ---
