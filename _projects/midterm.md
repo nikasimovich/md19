@@ -18,7 +18,7 @@ Surrounded by screens, the digital revolution has transformed our day to day liv
 
 ### Video Specs
 
-1. 1080 x 1080 pixels (other sizes OK, but this one is most flexible)
+1. 1080 x 1080 pixels (other sizes OK)
 2. mp4 format
 3. less than 5mb
 4. each video should be less than 30 seconds
