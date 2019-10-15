@@ -1,7 +1,7 @@
 ---
 title:            Week 2
 start_date:       2019-09-02 00:00:00 -0500
-date_range:       9/3
+date_range:       09/03
 ---
 
 ### Tuesday
