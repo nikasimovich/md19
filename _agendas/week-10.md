@@ -1,7 +1,7 @@
 ---
 title:            Week 10
-start_date:       2019-09-16 00:00:00 -0500
-date_range:       10/28
+start_date:       2019-10-28 00:00:00 -0500
+date_range:       10/29
 ---
 
 ### Tuesday
