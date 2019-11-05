@@ -7,7 +7,7 @@ date_range:       11/05
 ### Tuesday
 
 - [Discuss Charles Broskoski reading](https://paper.dropbox.com/doc/Write-a-discussion-question-below--AnjPQSMEn519vt6tHzo90JcSAQ-doS62Cx3tR8a6Y3LC5n3b)
-- Introduce Final: [Helpful App](projects/helpful-app) and go through [references](https://paper.dropbox.com/doc/Helpful-App--An~PxydhVjCRgrI86eclgkGFAQ-X458xYpksr2fLRe3RL6f0)
+- Introduce Final: [Helpful App](../projects/helpful-app) and go through [references](https://paper.dropbox.com/doc/Helpful-App--An~PxydhVjCRgrI86eclgkGFAQ-X458xYpksr2fLRe3RL6f0)
 - Midterm evaluation meetings
 - Watch [Stewart Brand How Buildings Learn](https://www.youtube.com/watch?v=AvEqfg2sIH0&t=1s)
 
