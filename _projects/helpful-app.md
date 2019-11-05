@@ -27,8 +27,8 @@ The final deliverable for this will be a presentation that explains your concept
 
 Check the agenda for more details
 
-November 12th – Three concepts
-November 19th – Wireframes and visual design explorations
-November 26th – Draft of prototype and revised visual design and art direction
-December 3rd –  Revised draft of prototype and draft of presentation
+November 12th – Three concepts<br/>
+November 19th – Wireframes and visual design explorations<br/>
+November 26th – Draft of prototype and revised visual design and art direction<br/>
+December 3rd –  Revised draft of prototype and draft of presentation<br/>
 December 10th – Final presentation: concept and prototype
