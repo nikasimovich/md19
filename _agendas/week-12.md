@@ -1,12 +1,12 @@
 ---
 title:            Week 12
-start_date:       2019-10-28 00:00:00 -0500
+start_date:       2019-11-11 00:00:00 -0500
 date_range:       11/12
 ---
 
 ### Tuesday
 
-- Students present their helpful app concepts
+- Students present their helpful app [concepts](https://drive.google.com/open?id=1S5ph7LwwqokpE5Lw4atlLFIckMtANQTQ)
 - Review wireframes/homework
 - Time permitting: watch Fyre Island documentary
 
