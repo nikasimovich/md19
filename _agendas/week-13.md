@@ -13,6 +13,6 @@ date_range:       11/19
 
 ### Homework
 - Create a short presentation that introduces your app&rsquo;s look and feel. Include a title for your app and a concept description, moodboard, style tile, and the design of 2 of your keyscreens. This is just a draft, but the more you have next week the more feedback you&rsquo;ll get to work with.
-- Read [Blanding, or the Branding Paradox](https://www.basedesign.com/blog/blanding-or-the-branding-paradox) and write a [discussion question](https://paper.dropbox.com/doc/Blanding-or-the-Branding-Paradox-Discussion-Question--Aoyi_U_9IKDg~GHZ8BaqZ0YzAQ-i7S0lAsJqvZO4X7bJPwnu)
+- Read [Run Your Own Social – Darius Kazemi](https://runyourown.social/) and write a [discussion question](https://paper.dropbox.com/doc/Blanding-or-the-Branding-Paradox-Discussion-Question--Aoyi_U_9IKDg~GHZ8BaqZ0YzAQ-i7S0lAsJqvZO4X7bJPwnu)
 
 ---
