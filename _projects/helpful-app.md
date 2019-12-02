@@ -11,7 +11,7 @@ Are.na, a platform for organizing research, was created around the idea of gener
 
 ### Instructions
 
-The final deliverable for this will be a presentation that explains your concept, highlights the most memorable parts of the design and the design process, and ends in a demo of a clickable prototype. Your prototype does not have to be the complete app. Instead, it should highlight the main screens as well as a few interactions that highlight the purpose of the app and show off the design language.
+The final deliverable for this will be a presentation that explains your concept, highlights the most memorable parts of the design and the design process, highlights an extension of the brand (what would be an interesting extension that supports your concept? Ideas: social media design, email design, t shirt or memorabilia. Only show something that speaks to the brand concept) and ends in a demo of a clickable prototype. Your prototype does not have to be the complete app. Instead, it should highlight the main screens as well as a few interactions that highlight the purpose of the app and show off the design language.
 
 <!--
 ### Tasks
@@ -31,4 +31,4 @@ November 12th – Three concepts<br/>
 November 19th – Wireframes and visual design explorations<br/>
 November 26th – Draft of prototype and revised visual design and art direction<br/>
 December 3rd –  Revised draft of prototype and draft of presentation<br/>
-December 10th – Final presentation: concept and prototype
+December 10th – Final presentation: concept, brand extension and prototype
